@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hieroglyphica
-- 👀 I’m interested in JavaScript, React, three.js, d3, visx. 
+- 👀 I’m interested in JavaScript, React, three.js, d3, visx, Recoil and much more. 
 - 🌱 I’m currently learning three.js and refreshiing my react skills.
 
 <!---
